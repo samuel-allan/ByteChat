@@ -12,7 +12,7 @@ ByteChat uses LWE and DH key exchange to communicate the two different parts of 
 ### Is ByteChat going to be open-source, can I help?
 Help is very welcome, and really the best way to help is to host a ByteChat server (it is as simple as getting a DigitalOcean VPS for about $5/Mo and installing the software found [here](github.com/samuel-allan/ByteChat-Server)) and ByteChat will be open-source and free, the only component that requires hiding will be the CA keys used on the preliminary stages for increased compatibility. Donations are by no means whatsoever expected or required, but if you are very overwhelmingly generous (again - this is purely if you want to make my day) then you can help fund this project: 3BGbbeq3wRfJLP1januueWYYAmuY6jjk6Y (Bitcoin address)
 
-*) In reality the two parts are exclusive-ored (the security of this given randomness of both components) can be easily demonstrated
+*) **In reality the two parts are exclusive-ored (the security of this given randomness of both components can be easily demonstrated)**
 
 ## Installation/Usage
 In the future it is assumed ByteChat will be available in all the major software reponsitories on phones (in other words Play store, App store, Windows store). For now the best you can do is contribute and wait :D
